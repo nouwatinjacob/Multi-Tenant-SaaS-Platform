@@ -1,5 +1,6 @@
 /__pycache__
-.env/
+.env
+.env.*
 /core/__pycache__
 /apps/accounts/__pycache__
 /apps/organizations/__pycache__
