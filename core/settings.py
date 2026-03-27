@@ -31,6 +31,7 @@ DEBUG = os.getenv('DEBUG') == 'True'
 
 ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS').split(',') if os.getenv('ALLOWED_HOSTS') else []
 
+AUTH_USER_MODEL = "accounts.User"
 
 # Application definition
 
