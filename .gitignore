@@ -18,3 +18,4 @@
 /apps/tasks/migrations/__pycache__
 /apps/billings/migrations/__pycache__
 /apps/auditlogs/migrations/__pycache__
+db.sqlite3
